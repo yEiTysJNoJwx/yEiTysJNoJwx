@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ Metal Library and STL
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me (don't)
-- 😄 Pronouns: she her they
+- 😄 Pronouns: he him they
 - ⚡ Fun fact: I play DTI
 
 <!---
